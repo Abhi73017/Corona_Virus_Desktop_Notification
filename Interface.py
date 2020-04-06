@@ -149,7 +149,7 @@ class Interface(object):
         QMetaObject.connectSlotsByName(Interface)
 
     def retranslateUi(self, Interface):
-        Interface.setWindowTitle(QCoreApplication.translate("Interface", u"Form", None))
+        Interface.setWindowTitle(QCoreApplication.translate("Interface", u"Corona Virus Desktop Notification", None))
         self.CBstate1.setItemText(0, QCoreApplication.translate("Interface", u"-Select-", None))
         self.CBstate1.setItemText(1, QCoreApplication.translate("Interface", u"Andhra Pradesh", None))
         self.CBstate1.setItemText(2, QCoreApplication.translate("Interface", u"Andaman and Nicobar Islands	", None))
