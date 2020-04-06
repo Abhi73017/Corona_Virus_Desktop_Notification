@@ -1,7 +1,6 @@
 # Corona_Virus_Desktop_Notification
-Using this python script, you can get updates of corona virus on your desktop as notification. This project performs web scrapping. Using
-a GUI it takes input of state namse or ask to check the box for all states, after that it shows desktop notification  in your notification
-panel. 
+Using this python script and GUI, you can get updates of corona virus on your desktop as notification. This project performs web scrapping. Using a GUI it takes input of state names or ask to check the box for all states, after that it shows desktop notification
+in your notification panel. 
 
 # Dependencies :
 tkinter
