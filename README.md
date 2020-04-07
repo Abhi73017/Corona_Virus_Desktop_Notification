@@ -15,6 +15,10 @@ plyer 1.4.3
 Copy the repository into your computer and open the project in any IDE... then run the main.py file (install the dependencies first
 if not installed)
 
+# Attention
+There should be an active Internet connection in
+Your computer/laptop while ruuning the main.py file. 
+
 # Screenshot
 Check in repository.. screenshots has been uploaded.
 
