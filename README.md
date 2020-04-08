@@ -12,12 +12,10 @@ time
 plyer 1.4.3
 
 # Usage :
-Copy the repository into your computer and open the project in any IDE... then run the main.py file (install the dependencies first
-if not installed)
+Copy the repository into your computer and open the project in any IDE... then run the main.py file
 
 # Attention
-There should be an active Internet connection in
-Your computer/laptop while ruuning the main.py file. 
+There should be an active Internet connection in Your computer/laptop while ruuning the main.py file. 
 
 # Screenshot
 Check in repository.. screenshots has been uploaded.
